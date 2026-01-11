@@ -37,4 +37,4 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/NOTLer/project.git
+git clone https://github.com/NOTLer/machine-learning-portfolio.git
